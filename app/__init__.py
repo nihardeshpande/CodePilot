@@ -1,0 +1,1 @@
+"""CodePilot application package."""
